@@ -5,3 +5,5 @@ nombre = input('INGRESA TU NOMBRE COMPLETO: ')
 print(nombre.lower()) #TODO EL TEXTO LO VUELE MINUSCULAS
 print(nombre.upper()) #TODO EL TEXTO LO VUELE MAYUSCULA
 print(nombre.title()) #LAS PRIMERAS LETRAS DE CADA PALABRA LAS VUELVE MAYUSCULAS
+
+print("Prueba de GIT")
